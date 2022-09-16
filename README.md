@@ -1,5 +1,5 @@
-# Hi there, I'm Kate!
-### ITMO student
+# Hi there, I'm Kate Zharkova!
+### ITMO student in the field of information systems development
 
 <!--
 **LosPiesDescalzos/LosPiesDescalzos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
