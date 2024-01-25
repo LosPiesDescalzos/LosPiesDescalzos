@@ -1,7 +1,7 @@
 # Hi there, I'm Kate Zharkova!
 ### ITMO student in the field of information systems development
 
-- 📫 How to reach me: [VK](https://vk.com/pies_descalzos), <katyaj2001@mail.ru>
+- 📫 How to reach me: [TG](https://t.me/LosPiesDescalzos), <katyaj2001@mail.ru>
 
 <!--
 **LosPiesDescalzos/LosPiesDescalzos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
